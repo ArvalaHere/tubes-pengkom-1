@@ -55,7 +55,7 @@ def AddOrang(orang, pos_awal, BB, berat) :
 def BeratLift(berat) :
     # Berfungsi untuk menghitung berat orang yang ada di dalam lift.
     # KAMUS LOKAL
-    # berat : int
+    # berat : float
 
     # ALGORITMA
     berat=0
